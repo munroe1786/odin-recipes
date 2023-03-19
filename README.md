@@ -1,0 +1,1 @@
+This is my Odin Project Recipes assignment.  I'll build an index page that has links to recipes.  Later on in the Odin Project, I'll style it with CSS.
